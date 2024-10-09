@@ -34,11 +34,13 @@ body {
 .git-commands-command {
     padding: 16px;
     background-color: #773344;
+    border-radius: 10px;
     font-size: 1.5rem;
 }
 
 .git-commands-effect {
     padding: 16px;
     background-color: #D44D5C;
+    border-radius: 10px;
     font-size: 1.5rem;
 }
